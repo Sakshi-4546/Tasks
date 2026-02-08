@@ -10,7 +10,7 @@
 
 ## Objective
 
- using docker build a simple application with a frontend and backend that successfully connects to a database (MySQL) to store and retrieve data.
+ Using docker build a simple application with a frontend and backend that successfully connects to a database (MySQL) to store and retrieve data.
 
 ## Steps :-
 
